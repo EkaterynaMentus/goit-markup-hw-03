@@ -58,7 +58,7 @@ body {
 .header {
   border-bottom: 1px solid #ececec;
   background-color: var(--third-color);
-  border: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
 }
 .logo {
   color: #000000;
