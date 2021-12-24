@@ -347,7 +347,7 @@ body {
 .address-link {
   color: var(--third-color);
 }
-.address-item:not(last-child) {
+.address-item:not(:last-child) {
   margin-bottom: 9px;
 }
 .address-item,
